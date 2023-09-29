@@ -36,5 +36,4 @@ Letga 是前后端分离项目，本项目是后端部分，前端请前往：[L
 - [github.com/golang-jwt/jwt](https://github.com/golang-jwt/jwt)
 
 ## 版权
-- 遵循Apache-2.0开源协议，保留系统版权，可免费商用
-
+- 遵循[Apache-2.0 License](https://github.com/lgcgo/letga-server/blob/main/LICENSE)，保留系统版权，可免费商用
