@@ -1,0 +1,13 @@
+
+# CLI tool, only in development environment.
+# https://goframe.org/pages/viewpage.action?pageId=3673173
+gfcli:
+  gen:
+    dao:
+    - link:     "mysql:root:123456@tcp(127.0.0.1:3306)/letga"
+      tables:   "auth_access,auth_role,auth_role_access,auth_route,media,menu,user"
+      jsonCase: "CamelLower"
+  docker:
+    build: "-a amd64 -s linux -p temp -ew"
+    tagPrefixes:
+      - my.image.pub/my-app
