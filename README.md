@@ -5,7 +5,7 @@ Letga 是一个基于 GoFrame 和 AntDesign 的中后台管理系统。Letga 集
 GoFrame 是 LetgaServer 的底座，具备基础组件丰富、文档全面、通用性强等特性。在此基础上，Letga 针对应用提出更细致的**规范与约束**方案。
 
 ### 体验佳
-Letga 注重用户体验，并坚持将其作为核心的产品价值之一。得益于AntDesign 设计体系，Letga践行其 **简洁**、**确定**、**一致** 的体验价值，并融入到中后台的通用页面/组件的设计规范中。
+得益于AntDesign 的设计价值观，Letga 在整体设计上践行 **简洁**、**一致**、**易用** 的设计原则，并对通用的功能组件做了进一步封装，开发者可轻易复用或者扩展 **体验良好** 的功能组件。
 
 Letga 是前后端分离项目，本项目是后端部分，前端请前往：[LetgaFrontend](https://github.com/lgcgo/letga-frontend/)
 
@@ -32,6 +32,7 @@ Letga 是前后端分离项目，本项目是后端部分，前端请前往：[L
 
 ## 致谢
 - [github.com/gogf/gf](https://github.com/gogf/gf)
+- [github.com/ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)
 - [github.com/casbin/casbin](https://github.com/casbin/casbin)
 - [github.com/golang-jwt/jwt](https://github.com/golang-jwt/jwt)
 
