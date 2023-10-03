@@ -16,6 +16,7 @@ Letga 是前后端分离项目，本项目是后端部分，前端请前往：[L
 
 ## 文档
 - [安装使用](docs/start_install.md)
+- [错误处理](docs/sys_error.md)
 
 ## 截图
 <table>
