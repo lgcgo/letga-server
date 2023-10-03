@@ -37,4 +37,4 @@ gf run .
 ## 相关文档
 - [GoFrame 快速开始](https://goframe.org/pages/viewpage.action?pageId=1114399)
 - [GoFrame 开发工具](https://goframe.org/pages/viewpage.action?pageId=1114260)
-- [FoFrame 核心组件](https://goframe.org/pages/viewpage.action?pageId=1114409)
+- [GoFrame 核心组件](https://goframe.org/pages/viewpage.action?pageId=1114409)
