@@ -1,4 +1,4 @@
-## 权限认证
+## 认证 Authentication
 
 Letga 的权限认证系统，建立在Casbin [域内基于角色的访问控制](https://casbin.org/zh/docs/rbac-with-domains) 的基础之上。在此系统中，分别有 `User` 、`Role`、`Route` 这四个数据实体 `Entity` 参与其中，这些数据实体中的某些字段，将与Casbin 模型中的令牌名称形成映射关系。
 
@@ -47,7 +47,6 @@ p, role::roleName, /account/info, GET
 {
   "ist": "grant",
   "isr": "Manager",
-  "dom": "manager",
   "iss": "mongoapi.com",
   "sub": "3y4eyz0e440crq24017elbk300unzx8d",
   "exp": 1681541407,
