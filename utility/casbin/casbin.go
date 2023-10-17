@@ -27,7 +27,7 @@ r = sub, obj, act
 p = sub, obj, act
 
 [role_definition]
-g = _, _, _
+g = _, _
 
 [policy_effect]
 e = some(where (p.eft == allow))
