@@ -34,6 +34,12 @@ go run .
 gf run .
 ```
 
+#### 前端项目
+前端请前往：[LetgaFrontend](https://github.com/lgcgo/letga-frontend/)
+
+#### 超级管理员
+用户名：letga 密码：letga666
+
 ## 相关文档
 - [GoFrame 快速开始](https://goframe.org/pages/viewpage.action?pageId=1114399)
 - [GoFrame 开发工具](https://goframe.org/pages/viewpage.action?pageId=1114260)
